@@ -1,0 +1,26 @@
+秨祇吏挂 
+  Windows10
+
+秨祇キ
+  Microsoft Visual Studio 2017
+
+
+  Page Replacement家览
+  秈竚传猭
+  程╱ノ竚传猭
+  把σじ竚传猭
+  Ω诀穦竚传猭
+  程ぃ盽ノ竚传猭
+  程盽ㄏノ竚传猭
+
+瑈祘
+  郎块Page Frame计のPage ReferenceΩ
+  ぃ竚传猭ミ砞﹚module
+  沮Page ReferenceΩPage inmodule
+  –ΩPage in常癘魁Page Frames
+  р癘魁块郎
+
+Data Structure
+  Page ReferenceΩノvector<char>龟瞷queue
+  ㄏノ蛮vector癘魁–丁翴Page Frames
+  Reference BitShift RegisterCounter常ノinteger array龟瞷

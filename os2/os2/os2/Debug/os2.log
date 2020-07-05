@@ -1,0 +1,5 @@
+﻿  os2.cpp
+C:\Users\anaki\Google 雲端硬碟\作業系統\第二支程式作業\os2\os2\os2.cpp(101,22): warning C4018:  '<': signed/unsigned 不相符
+C:\Users\anaki\Google 雲端硬碟\作業系統\第二支程式作業\os2\os2\os2.cpp(184,22): warning C4018:  '<': signed/unsigned 不相符
+C:\Users\anaki\Google 雲端硬碟\作業系統\第二支程式作業\os2\os2\os2.cpp(184,22): warning C4018: C:\Users\anaki\Google 雲端硬碟\作業系統\第二支程式作業\os2\os2\os2.cpp(368) : warning C4715: 'CPU::preemptive': 不是所有控制路徑都傳回值
+  os2.vcxproj -> C:\Users\anaki\Google 雲端硬碟\作業系統\第二支程式作業\os2\Debug\os2.exe

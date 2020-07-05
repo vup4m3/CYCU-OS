@@ -1,0 +1,5 @@
+﻿  os_project1.cpp
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(11): warning C4018: '<': signed/unsigned 不相符
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(12): warning C4018: '<': signed/unsigned 不相符
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(24): warning C4018: '<': signed/unsigned 不相符
+  os_project1.vcxproj -> D:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\Debug\os_project1.exe

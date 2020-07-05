@@ -1,0 +1,4 @@
+﻿  os3.cpp
+c:\users\anakin\google 雲端硬碟\作業系統\第三支程式作業\os3\os3\os3.cpp(48): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+c:\users\anakin\google 雲端硬碟\作業系統\第三支程式作業\os3\os3\os3.cpp(54): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  os3.vcxproj -> C:\Users\Anakin\Google 雲端硬碟\作業系統\第三支程式作業\os3\x64\Debug\os3.exe

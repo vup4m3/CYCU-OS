@@ -1,0 +1,17 @@
+開發平台:
+  windows10
+
+開發環境：
+  Microsoft Visual Studio 2017
+
+程式設計：
+  功能：5種CPU schedule模擬，FCFS、RR、Preemptive SJF、None-Preemptive SJF、Priority，畫出Gantt Chart，並計算Process的Turaround Time及Waiting Time。
+
+  流程：自檔案輸入method、Time slice及各個Process之編號、CPU Burst、Arrival Time、及Priority，先建立一個arrival_queue，以arrival time做排序，根據輸入的method來決定使用何種Scheduling做模擬。
+        fcfs：根據時間，把arrival_queue的process放到cpu_queue裡，若cpu為空就pop_front cpu_queue，把process放進cpu運算，process做完就離開cpu，換cpu_queue的下一個運行，按以上做迴圈，直至arrival_queue、cpu_queue、cpu為空。
+        RR：根據時間，把arrival_queue的process放到cpu_queue裡，若cpu為空就pop_front cpu_queue，把process放進cpu運算，process做完或time  slice用完就離開cpu，若未做完就回到cpu_queue排隊，換cpu_queue的下一個運行，按以上做迴圈，直至arrival_queue、cpu_queue、cpu為空。
+        PSJF：根據時間，把arrival_queue的process放到cpu_queue裡以burst time由小到大排序，若cpu為空就pop_front cpu_queue，把process放進cpu運算，process做完或cpu_queue中有burst time更短的process就離開cpu（沒做完回到cpu_queue排序），換cpu_queue的下一個運行，按以上做迴圈，直至arrival_queue、cpu_queue、cpu為空。
+        NSJF:根據時間，把arrival_queue的process放到cpu_queue裡以burst time由小到大排序，若cpu為空就pop_front cpu_queue，把process放進cpu運算，process做完就離開cpu，換cpu_queue的下一個運行，按以上做迴圈，直至arrival_queue、cpu_queue、cpu為空。
+        PP：根據時間，把arrival_queue的process放到cpu_queue裡以priority由小到大排序，若cpu為空就pop_front cpu_queue，把process放進cpu運算，process做完或cpu_queue中有Priority更優先的process就離開cpu（沒做完回到cpu_queue排序），換cpu_queue的下一個運行，按以上做迴圈，直至arrival_queue、cpu_queue、cpu為空。
+  
+  data structure：arrival_queue用vector實現queue，cpu_queue用vector實現queue

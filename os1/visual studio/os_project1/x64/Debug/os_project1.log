@@ -1,0 +1,7 @@
+﻿  os_project1.cpp
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(51): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(67): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(73): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(80): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\os_project1\os_project1.cpp(127): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  os_project1.vcxproj -> D:\文件\中原\系統程式\程式作業\第一隻程式作業\visual studio\x64\Debug\os_project1.exe

@@ -1,0 +1,2 @@
+﻿  os3.cpp
+c:\users\anakin\google 雲端硬碟\作業系統\第三支程式作業\os3\os3\os3.cpp(1): fatal error C1041: 無法開啟程式資料庫 'C:\Users\Anakin\Google 雲端硬碟\作業系統\第三支程式作業\os3\os3\Debug\vc141.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
